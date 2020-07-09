@@ -1,0 +1,2 @@
+*{text-align:center;font-family:'Lato', sans-serif;text-decoration:none}form{display:flex;flex-direction:column;flex-shrink:0;width:fit-content;height:100px;margin:0 auto}section{display:grid;justify-content:center;gap:10px;grid-template-columns:repeat(4, 200px);grid-auto-flow:dense}section div{width:fit-content;height:fit-content;padding:8px;margin:8px;border-radius:15px;overflow:hidden;background:#f2f2f2}section img{border-radius:15px;width:100%;object-fit:cover}
+
